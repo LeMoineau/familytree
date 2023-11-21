@@ -1,0 +1,11 @@
+.connection-ex > path {
+  stroke: none;
+}
+
+.connection-married > path {
+  stroke: pink;
+}
+
+.connection-child > path {
+  stroke: lightblue;
+}
