@@ -6,7 +6,7 @@ Web app to display family tree
 
 First, clone the current git repository by typing the command
 ```
-git clone https://github.com/LeMoineau/family-tree.git
+git clone https://github.com/LeMoineau/familytree.git
 ```
 Then, open a terminal in the newly created folder and type
 ```
